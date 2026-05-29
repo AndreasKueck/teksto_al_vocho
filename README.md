@@ -3,7 +3,7 @@
 Tiu chi GitHub-deponejo entenas [MacroDroid](https://www-macrodroid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=de&_x_tr_pto=wapp)-makroon, kiu
 
 1. atendas enigon de skriba teksto kaj
-2. el ghi kreas sondosieron en `vocho.mp3.
+2. el ghi kreas sondosieron en `vocho.mp3`, nome per la OpenAI-modelo `gpt-4o-mini-tts`.
 
 ---
 
