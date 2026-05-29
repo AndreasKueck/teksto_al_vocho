@@ -3,7 +3,7 @@
 Tiu chi GitHub-deponejo entenas [MacroDroid](https://www-macrodroid-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=eo&_x_tr_hl=de&_x_tr_pto=wapp)-makroon, kiu
 
 1. atendas enigon de skriba teksto kaj
-2. el ghi kreas sondosieron en `vocho.mp3`, nome per la OpenAI-modelo `gpt-4o-mini-tts`.
+2. el ghi kreas sondosieron `vocho.mp3`, nome per la OpenAI-modelo `gpt-4o-mini-tts`.
 
 ---
 
@@ -12,8 +12,6 @@ Tiu chi GitHub-deponejo entenas [MacroDroid](https://www-macrodroid-com.translat
 Antau ol uzi la makroon, certigu, ke MacroDroid estas instalitaj kaj ghuste agordita.
 
 Krome la uzanto bezonas validan OpenAI-API-shlosilon por la parolsintezo. Ghi funkcias per modelo `gpt-4o-mini-tts`.
-
----
 
 ## Importi la makroon
 
