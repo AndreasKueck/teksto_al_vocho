@@ -29,7 +29,7 @@ Certigu, ke tiu dosierujo ekzistas kaj tiucele estas uzebla.
 
 ## Vochlegigi tekston kunhavigitan al MacroDroid el alia apo
 
-Tion oni povas fari per la makroo `vochlegigi.macro`.
+Tion oni povas fari per la makroo `vochlegigi.macro` ([elshuti](https://www.dropbox.com/scl/fi/7xdc5stdz6six1cgj0s0a/vochlegigi.macro?rlkey=e9lohnjbcknqkoe4a3qdof100&st=doz9b6xo&dl=0)).
 
 ## Permesilo ("License")
 
