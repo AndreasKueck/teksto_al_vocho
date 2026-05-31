@@ -27,6 +27,10 @@ Por la sondosieroj `vocho.mp3` la makroo uzas dosierujon `/storage/emulated/0/do
 
 Certigu, ke tiu dosierujo ekzistas kaj tiucele estas uzebla.
 
+## Vochlegigi tekston kunhavigitan al MacroDroid el alia apo
+
+Tion oni povas fari per la makroo `vochlegigi.macro`.
+
 ## Permesilo ("License")
 
 Chi tiu projekto estas publikigita sub la [MIT-permesilo](./LICENSE).
