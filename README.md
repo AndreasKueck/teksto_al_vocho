@@ -27,6 +27,11 @@ Por la sondosieroj `vocho.mp3` la makroo uzas dosierujon `/storage/emulated/0/do
 
 Certigu, ke tiu dosierujo ekzistas kaj tiucele estas uzebla.
 
+## Alternativo per realtempa API de OpenAI
+
+Konsidere la anoncitan [evitindigon](https://developers.openai.com/api/docs/deprecations) de interalie `gpt-4o-mini-tts` jen alternativa parolsintezo per modelo `gpt-realtime-2.1-tts`:
+Temas pri makroo [teksto_al_vocho_per_realtempa_api_2.macro](https://www.dropbox.com/scl/fi/yiedyn1kbkweane6l3rwx/teksto_al_vocho_per_realtempa_api_2.macro?rlkey=9pa349lqxwyo4klvysjfrz541&st=9y5thi8e&dl=0) kombine kun la Pitona programo `realtime_tts.py`; la fontokodoj estas troveblaj [tie](https://github.com/AndreasKueck/teksto_al_vocho/tree/main/alternativo_per_realtempa_api). La Pitona programo estu efektivigita kadre de Android-apo Termux. Pri ghi jen [pli](https://github.com/AndreasKueck/transskribi_amr#).
+
 ## Vochlegigi tekston kunhavigitan al MacroDroid el alia apo
 
 Tion oni povas fari per la makroo `vochlegigi.macro` ([elshuti](https://www.dropbox.com/scl/fi/7xdc5stdz6six1cgj0s0a/vochlegigi.macro?rlkey=e9lohnjbcknqkoe4a3qdof100&st=doz9b6xo&dl=0)).
