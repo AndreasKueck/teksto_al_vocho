@@ -34,7 +34,7 @@ Temas pri makroo [teksto_al_vocho_per_realtempa_api_2.macro](https://www.dropbox
 
 ## Vochlegigi tekston kunhavigitan al MacroDroid el alia apo
 
-Tion oni povas fari per la makroo `vochlegigi.macro` ([elshuti](https://www.dropbox.com/scl/fi/7xdc5stdz6six1cgj0s0a/vochlegigi.macro?rlkey=e9lohnjbcknqkoe4a3qdof100&st=doz9b6xo&dl=0)).
+Tion oni povas fari per la makroo `vochlegigi.macro` ([elshuti](https://www.dropbox.com/scl/fi/7xdc5stdz6six1cgj0s0a/vochlegigi.macro?rlkey=e9lohnjbcknqkoe4a3qdof100&st=doz9b6xo&dl=0)) au per la makroo `teksto_al_vocho_per_realtempa_api_2.macro` ([elshuti](https://www.dropbox.com/scl/fi/yiedyn1kbkweane6l3rwx/teksto_al_vocho_per_realtempa_api_2.macro?rlkey=9pa349lqxwyo4klvysjfrz541&st=9y5thi8e&dl=0); okaze de la laste menciita makroo kombine kun la Pitona programo `realtime_tts.py`; vidu "Alternativo per realtempa API de OpenAI").
 
 ## Permesilo ("License")
 
